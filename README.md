@@ -1,34 +1,55 @@
-# ¡Hola! Soy Aldair Hernández 👋
+# 👋 I'm Aldair | Software Engineer in Progress
 
-### 🚀 Sobre mí
-Soy un apasionado de la **Ingeniería en Computación** enfocado en construir soluciones escalables y eficientes. Me encanta desmenuzar problemas complejos y convertirlos en código limpio.
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Focus-Full--Stack_Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Microservices_%26_System_Design-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resident-Mexico_City-green?style=flat-square" />
+</p>
 
-- 🛠 Actualmente trabajando en: **Proyectos con Microservicios y Node.js**
-- 🎓 Estudiante de: **Ingeniería en Computación (ICO)**
-- ⚡ Interés especial: **Arquitectura de Software y Optimización**
-- 🎹 Fuera de la terminal: Me relaja tocar el piano y seguir de cerca la **Fórmula 1**.
+### 🧩 About Me
+I'm an Engineering student who genuinely enjoys understanding how things work—not just using technology, but breaking it down and rebuilding it. I believe in **logical simplicity** and scalable systems.
 
----
-
-### 💻 Stack Tecnológico
-
-| Backend | Frontend | Herramientas & DevOps |
-| :--- | :--- | :--- |
-| ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![VSC](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+* **Mindset:** Analytical and high-standard. I'm the person who catches the edge cases you didn't see coming.
+* **Philosophy:** *"If it works, it's good. If it's clean, it's better. If it's scalable, it's worth it."*
+* **Hobbies:** When I'm not debugging, I'm likely following the **F1** (Tifosi 🏎️), playing the **piano**, or taking care of **Zelda** (my ferret).
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### ⚙️ Tech & Tools
+*Organized by my current "speedrun" to master full-stack architecture:*
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)`, `TypeScript`, `Python` |
+| **Frontend** | `React`, `Next.js`, `Tailwind CSS` |
+| **Backend** | `Node.js`, `Express`, `Microservices Architecture` |
+| **Databases** | `PostgreSQL`, `MySQL` |
+| **Infrastructure** | `Docker`, `Git`, `REST APIs` |
+
+---
+
+### 🚧 Current Projects
+* **Delivery Web App:** A deep dive into microservices and Docker orchestration.
+* **Personal Portfolio:** Building a clean, optimized space to showcase my work.
+
+---
+
+### 📊 GitHub Stats
+*(I care about these a little bit more than I should)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AldairH&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairH&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Aldair's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Conecta conmigo
-[LinkedIn](TU_LINK) | [Portfolio](TU_LINK) | [Email](TU_EMAIL)
+### 📫 Let's Connect
+If you're building something interesting or want to discuss technical architectures, I'm always open to a chat.
+
+[LinkedIn](TU_LINK) • [Portfolio](TU_LINK) • [Email](mailto:TU_EMAIL)
+
+<p align="center">
+  <br>
+  <i>"Still learning, still improving — but always moving forward."</i>
+</p>
