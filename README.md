@@ -38,8 +38,8 @@ I'm an Engineering student who genuinely enjoys understanding how things work—
 *(I care about these a little bit more than I should)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Aldair's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AldairH&show_icons=true&theme=tokyonight&hide_border=true" alt="Aldair's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I'm an Engineering student who genuinely enjoys understanding how things work—
 ### 📫 Let's Connect
 If you're building something interesting or want to discuss technical architectures, I'm always open to a chat.
 
-[LinkedIn](TU_LINK) • [Portfolio](TU_LINK) • [Email](mailto:TU_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/aldair-hern%C3%A1ndez-ju%C3%A1rez-b1555a252/?skipRedirect=true) • [Portfolio](aldairhj.dev) • [Email](mailto:aldairhj@outlook.com)
 
 <p align="center">
   <br>
